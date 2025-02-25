@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm Gihoon Lee (이기훈)
 💡 AI Researcher | MSc Student at Hallym University  
-🔬 Working on Driver Identification, Medical AI, and Prompt Engineering  
 
 📫 **Contact:** `dlrlgns1104@naver.com`
 ---
@@ -13,13 +12,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### 📌 Current Projects
+### 🔬 Current Research Interests  
 - 🚗 **Autonomous Driving & Automotive Security AI** – Enhancing vehicle security and anomaly detection using AI in self-driving systems  
 - 🏥 **Medical AI Research** – Machine Learning in healthcare and diagnosis  
 - 🔍 **Prompt Engineering & Security** – Studying AI vulnerabilities and prompt filtering  
@@ -27,4 +20,16 @@
 
 ---
 
-⭐ **[Check out my repositories!](https://github.com/yourusername?tab=repositories)**  
+### 🔬 Research Areas  
+
+| Research Topic | Description |
+|--------------|-------------|
+| **Medical AI for Colorectal Polyp Detection** | Developing AI models to assist in the detection and classification of colorectal polyps for improved diagnosis. |
+| **Driver Identification & Behavior Analysis** | Utilizing AI to analyze driving patterns and identify unique driver characteristics for enhanced security and personalization. |
+| **Constant-Speed Recognition & Detection** | Researching AI-based detection methods for identifying and analyzing steady-speed driving behaviors. |
+| **Autonomous Driving & ADAS Analysis** | Investigating AI applications in autonomous driving systems and Advanced Driver Assistance Systems (ADAS) for performance optimization and safety improvements. |
+
+---
+
+
+⭐ **[Check out my repositories!](https://github.com/dlrlgns1104?tab=repositories)**  
