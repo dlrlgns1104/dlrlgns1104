@@ -2,7 +2,7 @@
 💡 AI Researcher | MSc Student at Hallym University  
 🔬 Working on Driver Identification, Medical AI, and Prompt Engineering  
 
-📫 **Contact:** `your.email@example.com` | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+📫 **Contact:** `dlrlgns1104@naver.com` | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
 
 ---
 
