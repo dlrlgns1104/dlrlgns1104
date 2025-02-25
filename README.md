@@ -2,8 +2,7 @@
 💡 AI Researcher | MSc Student at Hallym University  
 🔬 Working on Driver Identification, Medical AI, and Prompt Engineering  
 
-📫 **Contact:** `dlrlgns1104@naver.com` | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
-
+📫 **Contact:** `dlrlgns1104@naver.com`
 ---
 
 ### 🚀 Tech Stack
@@ -21,9 +20,10 @@
 ---
 
 ### 📌 Current Projects
-- 🚗 **Driver Identification with AI** – Predicting driver behaviors using deep learning  
+- 🚗 **Autonomous Driving & Automotive Security AI** – Enhancing vehicle security and anomaly detection using AI in self-driving systems  
 - 🏥 **Medical AI Research** – Machine Learning in healthcare and diagnosis  
 - 🔍 **Prompt Engineering & Security** – Studying AI vulnerabilities and prompt filtering  
+- 🎨 **Generative AI & Content Security** – Researching generative models and preventing adversarial misuse of AI-generated content   
 
 ---
 
